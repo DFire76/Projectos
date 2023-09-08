@@ -156,7 +156,7 @@ namespace Ejercicios
                 input = Console.ReadLine();
 
                 if (input.ToUpper() != "N")
-                    Console.WriteLine("{0} = {1}", input, c.calculate(input));
+                    Console.WriteLine("{0} = {1}", input, c.calculate(input.Trim()));
             } while (input.ToUpper() != "N");
             //int num = 2;
             //for(int i = 0; i <= 10; i++)

@@ -1,0 +1,13 @@
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.exe
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.deps.json
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.runtimeconfig.json
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.runtimeconfig.dev.json
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.dll
+G:\Programación\Calculadora\bin\Debug\netcoreapp3.1\CalculadoraAv.pdb
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.csprojAssemblyReference.cache
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.AssemblyInfoInputs.cache
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.AssemblyInfo.cs
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.csproj.CoreCompileInputs.cache
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.dll
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.pdb
+G:\Programación\Calculadora\obj\Debug\netcoreapp3.1\CalculadoraAv.genruntimeconfig.cache

@@ -1,0 +1,134 @@
+AGILITY          |PSYCHIC|STATUS|-|-|48|0|0|The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.
+AQUA_TAIL        |WATER|PHYSICAL|90|90|16|0|0|The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+BELLY_DRUM       |NORMAL|STATUS|-|-|16|0|0|The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+BODY_SLAM        |NORMAL|PHYSICAL|85|100|24|1|0|The user drops onto the target with its full body weight. This may also leave the target with paralysis.
+BRAVE_BIRD       |FLYING|PHYSICAL|120|100|24|1|0|The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.
+BUG_BUZZ         |BUG|SPECIAL|90|100|16|0|0|The user generates a damaging sound wave by vibration. This may also lower the target's Sp. Def stat.
+BULK_UP          |FIGHTING|STATUS|-|-|32|0|0|The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.
+BULLET_PUNCH     |STEEL|PHYSICAL|40|100|48|1|+1|The user strikes the target with tough punches as fast as bullets. This move always goes first.
+CLOSE_COMBAT     |FIGHTING|PHYSICAL|120|100|8|1|0|The user fights the target up close without guarding itself. This also lowers the user's Defense and Sp. Def stats.
+COIL             |POISON|STATUS|-|-|32|0|0|The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.
+CRUNCH           |DARK|PHYSICAL|80|100|24|1|0|The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+CURSE            |GHOST|STATIS|-|-|16|0|0|A move that works differently for the Ghost type than for all other types.
+DARK_PULSE       |DARK|SPECIAL|80|100|24|0|0|The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.
+DEFOG            |FLYING|STATUS|-|-|24|0|0|A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.
+DISCHARGE        |ELECTRIC|SPECIAL|80|100|24|0|0|The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+DOUBLE-EDGE      |NORMAL|PHYSICAL|120|100|24|1|0|A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
+DRAGON_DANCE     |DRAGON|STATUS|-|-|32|0|0|The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.
+DRAIN_PUNCH      |FIGHTING|PHYSICAL|75|100|16|1|0|An energy-draining punch. The user's HP is restored by half the damage taken by the target.
+DRILL_PECK       |FLYING|PHYSICAL|80|100|32|1|0|A corkscrewing attack that strikes the target with a sharp beak acting as a drill.
+DRILL_RUN        |GROUND|PHYSICAL|80|95|16|1|0|The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+DUAL_WINGBEAT    |FLYING|PHYSICAL|40|90|16|0|0|The user slams the target with its wings. The target is hit twice in a row.
+EARTH_POWER      |GROUND|SPECIAL|90|100|16|0|0|The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.
+EARTHQUAKE       |GROUND|PHYSICAL|100|100|16|0|0|The user sets off an earthquake that strikes every Pokémon around it.
+ENERGY_BALL      |GRASS|SPECIAL|90|100|16|0|0|The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.
+EXPLOSION        |NORMAL|PHYSICAL|250|100|8|0|0|The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+FACADE           |NORMAL|PHYSICAL|70|100|32|1|0|This attack move doubles its power if the user is poisoned, burned, or paralyzed.
+FAKE_OUT         |NORMAL|PHYSICAL|40|100|16|1|+3|This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
+FIRE_BLAST       |FIRE|SPECIAL|110|85|8|0|0|The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.
+FIRE_PUNCH       |FIRE|PHYSICAL|75|100|24|1|0|The target is punched with a fiery fist. This may also leave the target with a burn.
+FIRST_IMPRESSION |BUG|PHYSICAL|90|100|16|1|+2|Although this move has great power, it only works the first turn each time the user enters battle.
+FLAMETHROWER     |FIRE|SPECIAL|90|100|24|0|0|The target is scorched with an intense blast of fire. This may also leave the target with a burn.
+FLARE_BLITZ      |FIRE|PHYSICAL|120|100|24|1|0|The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.
+FLASH_CANNON     |STEEL|SPECIAL|80|100|16|0|0|The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat.
+FLIP_TURN        |WATER|PHYSICAL|60|100|32|1|0|After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+FOCUS_BLAST      |FIGHTING|SPECIAL|120|70|8|0|0|The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.
+FREEZE-DRY       |ICE|SPECIAL|70|100|32|0|0|The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.
+FRUSTRATION      |NORMAL|PHYSICAL|102|100|32|1|0|This full-power attack grows more powerful the less the user likes its Trainer.
+FUTURE_SIGHT     |PSYCHIC|SPECIAL|120|100|16|0|0|Two turns after this move is used, a hunk of psychic energy attacks the target.
+GIGA_DRAIN       |GRASS|SPECIAL|75|100|16|0|0|A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+GROWTH           |NORMAL|STATUS|-|-|32|0|0|The user's body grows all at once, raising the Attack and Sp. Atk stats.
+GUNK_SHOT        |POISON|PHYSICAL|120|80|8|0|0|The user shoots filthy garbage at the target to attack. This may also poison the target.
+HEAL_BELL        |NORMAL|STATUS|-|-|8|0|0|The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.
+HEAT_WAVE        |FIRE|SPECIAL|95|90|16|0|0|The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn.
+HIDDEN_POWER_FIRE|FIRE|SPECIAL|60|100|24|0|0|A unique attack that varies in type depending on the Pokémon using it.
+HIGH_HORSEPOWER  |GROUND|PHYSICAL|95|95|16|1|0|The user fiercely attacks the target using its entire body.
+HORN_DRILL       |GROUND|PHYSICAL|-|30|8|1|0|The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.
+HURRICANE        |FLYING|SPECIAL|110|70|16|1|0|The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.
+HYDRO_PUMP       |WATER|SPECIAL|110|80|8|0|0|The target is blasted by a huge volume of water launched under great pressure.
+HYPNOSIS         |PSYCHIC|STATUS|-|60|32|0|0|The user employs hypnotic suggestion to make the target fall into a deep sleep.
+ICE_BEAM         |ICE|SPECIAL|90|100|16|0|0|The target is struck with an icy-cold beam of energy. This may also leave the target frozen.
+ICE_FANG         |ICE|PHYSICAL|65|95|24|1|0|The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.
+ICE_PUNCH        |ICE|PHYSICAL|75|100|24|1|0|The target is punched with an icy fist. This may also leave the target frozen.
+ICICLE_SPEAR     |ICE|PHYSICAL|25|100|48|0|0|The user launches sharp icicles at the target two to five times in a row.
+IRON_HEAD        |STEEL|PHYSICAL|80|100|24|1|0|The user slams the target with its steel-hard head. This may also make the target flinch.
+JUMP_KICK        |FIGHTING|PHYSICAL|100|95|16|1|0|This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+KNOCK_OFF        |DARK|PHYSICAL|65|100|32|1|0|The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
+LAVA_PLUME       |FIRE|SPECIAL|80|100|24|0|0|The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.
+LEAF_BLADE       |GRASS|PHYSICAL|90|100|24|1|0|The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.
+LEAF_STORM       |GRASS|SPECIAL|130|90|8|0|0|The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.
+LEECH_LIFE       |BUG|PHYSICAL|80|100|16|1|0|The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+LIGHT_SCREEN     |PSYCHIC|STATUS|-|-|48|0|0|A wondrous wall of light is put up to reduce damage from special attacks for five turns.
+LIQUIDATION      |WATER|PHYSICAL|85|100|16|1|0|The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.
+LOVELY_KISS      |NORMAL|STATUS|-|75|16|0|0|With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.
+MACH_PUNCH       |FIGHTING|PHYSICAL|40|100|48|1|+1|The user throws a punch at blinding speed. This move always goes first.
+MEGAHORN         |BUG|PHYSICAL|120|85|16|1|0|Using its tough and impressive horn, the user rams into the target with no letup.
+MEMENTO          |DARK|STATUS|-|100|16|0|0|The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
+METEOR_BEAM      |ROCK|SPECIAL|120|90|16|0|0|In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.
+MOONBLAST        |FAIRY|SPECIAL|95|100|24|0|0|Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat.
+MORNING_SUN      |NORMAL|STATUS|-|-|8|0|0|The user restores its own HP. The amount of HP regained varies with the weather.
+MYSTICAL_FIRE    |FIRE|SPECIAL|75|100|16|0|0|The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.
+NASTY_PLOT       |DARK|STATUS|-|-|32|0|0|The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.
+PAIN_SPLIT       |NORMAL|STATUS|-|-|32|0|0|The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+PERISH_SONG      |NORMAL|STATIS|-|-|8|0|0|Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
+POISON_JAB       |POISON|PHYSICAL|80|100|32|1|0|The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.
+POWER_WHIP       |GRASS|PHYSICAL|120|85|16|1|0|The user violently whirls its vines, tentacles, or the like to harshly lash the target.
+PROTECT          |NORMAL|STATUS|-|-|16|0|+4|This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+PSYCHIC          |PSYCHIC|SPECIAL|90|100|16|0|0|The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.
+PSYSHOCK         |PSYCHIC|SPECIAL|80|100|16|0|0|The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+PSYSTRIKE        |PSYCHIC|SPECIAL|100|100|16|0|0|The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+QUICK_ATTACK     |NORMAL|PHYSICAL|40|100|48|1|+1|The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+QUIVER_DANCE     |BUG|STATUS|-|-|32|0|0|The user lightly performs a beautiful, mystic dance. This boosts the user's Sp. Atk, Sp. Def, and Speed stats.
+RAIN_DANCE       |WATER|STATUS|-|-|8|0|0|The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.
+RAPID_SPIN       |NORMAL|PHYSICAL|20|100|64|1|0|A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user's Speed stat.
+RECOVER          |NORMAL|STATUS|-|-|16|0|0|Restoring its own cells, the user restores its own HP by half of its max HP.
+REFLECT          |PSYCHIC|STATUS|-|-|32|0|0|A wondrous wall of light is put up to reduce damage from physical attacks for five turns.
+REST             |PSYCHIC|STATUS|-|-|16|0|0|The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.
+RETURN           |NORMAL|PHYSICAL|102|100|32|1|T0|his full-power attack grows more powerful the more the user likes its Trainer.
+ROCK_BLAST       |ROCK|PHYSICAL|25|90|16|0|0|The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+ROCK_SLIDE       |ROCK|PHYSICAL|75|90|16|0|0|Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.
+ROOST            |FLYING|STATUS|-|-|16|0|0|The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
+SCALD            |WATER|SPECIAL|80|100|24|0|0|The user shoots boiling hot water at its target. This may also leave the target with a burn.
+SCORCHING_SANDS  |GROUND|SPCECIAL|70|100|16|0|0|The user throws scorching sand at the target to attack. This may also leave the target with a burn
+SEISMIC_TOSS     |FIGHTING|PHYSICAL|-|100|32|1|0|The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
+SHADOW_BALL      |GHOST|SPECIAL|80|100|24|0|0|The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat.
+SHEER_COLD       |ICE|SPECIAL|-|30|8|0|0|The target faints instantly. It's less likely to hit the target if it's used by Pokémon other than Ice types.
+SHELL_SMASH      |NORMAL|STATUS|-|-|24|0|0|The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.
+SLACK_OFF        |NORMAL|STATUS|-|-|16|0|0|The user slacks off, restoring its own HP by up to half of its max HP.
+SLEEP_POWDER     |GRASS|STATUS|-|75|24|0|0|The user scatters a big cloud of sleep-inducing dust around the target.
+SLEEP_TALK       |NORMAL|STATUS|-|-|16|0|0|While it is asleep, the user randomly uses one of the moves it knows.
+SLUDGE_BOMB      |POISON|SPECIAL|90|100|16|0|0|Unsanitary sludge is hurled at the target. This may also poison the target.
+SLUDGE_WAVE      |POISON|SPECIAL|95|100|16|0|0|The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.
+SOFT-BOILED      |NORMAL|STATUS|-|-|16|0|0|The user restores its own HP by up to half of its max HP.
+SPIKES           |GROUND|STATUS|-|-|24|0|0|The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle.
+SPORE            |GRASS|STATUS|-|100|16|0|0|The user scatters bursts of spores that induce sleep.
+STEALTH_ROCK     |ROCK|STATUS|-|-|32|0|0|The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+STOMPING_TANTRUM |GROUND|PHYSICAL|75|100|16|1|0|Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.
+STONE_EDGE       |ROCK|PHYSICAL|100|80|8|0|0|The user stabs the target from below with sharpened stones. Critical hits land more easily.
+STRENGTH_SAP     |GRASS|STATUS|-|100|16|0|0|The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+SUBSTITUTE       |NORMAL|STATUS|-|-|16|0|0|The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.
+SUCKER_PUNCH     |DARK|PHYSICAL|70|100|8|1|+1|This move enables the user to attack first. This move fails if the target is not readying an attack.
+SUPER_FANG       |NORMAL|PHYSICAL|-|90|16|1|0|The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.
+SUPERPOWER       |FIGHTING|PHYSICAL|120|100|8|1|0|The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats.
+SURF             |WATER|SPECIAL|90|100|24|0|0|The user attacks everything around it by swamping its surroundings with a giant wave.
+SWORDS_DANCE     |NORMAL|STATUS|-|-|32|0|0|A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.
+SYNTHESIS        |GRASS|STATUS|-|-|8|0|0|The user restores its own HP. The amount of HP regained varies with the weather.
+TAUNT            |DARK|STATUS|-|100|32|0|0|The target is taunted into a rage that allows it to use only attack moves for three turns.
+TELEPORT         |PSYCHIC|STATUS|-|-|32|0|-6|The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.
+THROAT_CHOP      |DARK|PHYSICAL|80|100|24|1|0|The user attacks the target's throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.
+THUNDER_PUNCH    |ELECTRIC|PHYSICAL|75|100|24|1|0|The target is punched with an electrified fist. This may also leave the target with paralysis.
+THUNDER_WAVE     |ELECTRIC|STATUS|-|90|32|0|0|The user launches a weak jolt of electricity that paralyzes the target.
+THUNDERBOLT      |ELECTRIC|SPECIAL|90|100|24|0|0|A strong electric blast crashes down on the target. This may also leave the target with paralysis.
+TOXIC            |POISON|STATUS|-|80|16|0|0|A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+TOXIC_SPIKES     |POISON|STATUS|-|-|32|0|0|The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.
+TRANSFORM        |NORMAL|STATUS|-|-|16|0|0|The user transforms into a copy of the target right down to having the same move set.
+TRI_ATTACK       |NORMAL|SPECIAL|80|100|16|0|0|The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.
+U-TURN           |BUG|PHYSICAL|70|100|32|1|0|After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+VOLT_SWITCH      |ELECTRIC|SPECIAL|70|100|32|0|0|After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+WATERFALL        |WATER|PHYSICAL|80|100|24|1|0|The user charges at the target and may make it flinch.
+WEATHER_BALL     |NORMAL|SPECIAL|50|100|16|0|0|This attack move varies in power and type depending on the weather.
+WHIRLPOOL        |WATER|SPECIAL|35|85|24|0|0|The user traps the target in a violent swirling whirlpool for four to five turns.
+WILL-O-WISP      |FIRE|STATUS|-|85|24|0|0|The user shoots a sinister flame at the target to inflict a burn.
+WISH             |NORMAL|STATUS|-|-|16|0|0|One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.
+X-SCISSOR        |BUG|PHYSICAL|80|100|24|1|0|The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.
+ZEN_HEADBUTT     |PSYCHIC|PHYSICAL|80|90|24|1|0|The user focuses its willpower to its head and attacks the target. This may also make the target flinch.

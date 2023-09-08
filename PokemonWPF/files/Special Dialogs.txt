@@ -1,0 +1,23 @@
+stealth rock
+	Pointed stones float in the air around the other team
+	Pointed stones dug into <Pokemon>
+	The pointed stones disappeared from around your team
+spikes
+	Spikes were scattered on the ground all around the other team
+	<Pokemon> was hurt by the spikes
+toxic spikes
+	Poison spikes were scattered on the ground all around the other team
+leech seed
+	<Pokemon> was seeded
+	<Pokemon>'s health is sapped by LEECH SEED
+toxic
+	<Pokemon> was badly poisoned
+rest
+	<Pokemon> slept and became healthy
+leftovers/black sludge
+	<Pokemon> restored a little HP using its LEFTOVERS/BLACK SLUDGE
+sandstorm
+	A sandstorm kicked up
+	The sandstorm is raging
+	<Pokemon> is buffeted by the sandstorm
+	The sandstorm subsided

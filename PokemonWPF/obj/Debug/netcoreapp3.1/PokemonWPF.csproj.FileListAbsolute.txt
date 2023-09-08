@@ -1,0 +1,134 @@
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csprojAssemblyReference.cache
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.cache
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.lref
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.exe
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.deps.json
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.json
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.dev.json
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.dll
+C:\Users\Mañana\source\repos\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.pdb
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.g.resources
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfoInputs.cache
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfo.cs
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.dll
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.pdb
+C:\Users\Mañana\source\repos\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.genruntimeconfig.cache
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.exe
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.deps.json
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.json
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.dev.json
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.dll
+G:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.pdb
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csprojAssemblyReference.cache
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.cache
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.lref
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.g.resources
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfoInputs.cache
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfo.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.CoreCompileInputs.cache
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.dll
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.pdb
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.genruntimeconfig.cache
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.exe
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.deps.json
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.json
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.dev.json
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.dll
+E:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.pdb
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.AssemblyReference.cache
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.cache
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.lref
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.g.resources
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfoInputs.cache
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfo.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.CoreCompileInputs.cache
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.dll
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.pdb
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.genruntimeconfig.cache
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\BattleWindow.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\BattleWindow.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\BattleWindow.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\BattleWindow.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWindow.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWindow.baml
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWindow.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWindow.baml
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.baml
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\DetailsWindow.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\DetailsWindow.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\DetailsWindow.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\DetailsWindow.baml
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\ActionWindow.g.cs
+G:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\ActionWindow.baml
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\ActionWindow.g.cs
+E:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\ActionWindow.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.AssemblyReference.cache
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.cache
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.lref
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.dll
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.pdb
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.exe
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.deps.json
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.json
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.dev.json
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.dll
+H:\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.pdb
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.g.resources
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfoInputs.cache
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfo.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.CoreCompileInputs.cache
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.genruntimeconfig.cache
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\ActionWindow.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\BattleWindow.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\DetailsWindow.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\MainWindow.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\PokemonWindow.g.cs
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\ActionWindow.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\BattleWindow.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\DetailsWindow.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\MainWindow.baml
+H:\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\PokemonWindow.baml
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.exe
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.deps.json
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.json
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.runtimeconfig.dev.json
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.dll
+F:\1º DAM\Programación\PokemonWPF\bin\Debug\netcoreapp3.1\PokemonWPF.pdb
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.AssemblyReference.cache
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\ActionWindow.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\BattleWindow.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\DetailsWindow.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\MainWindow.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\PokemonWindow.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.g.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.cache
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF_MarkupCompile.lref
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\App.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\ActionWindow.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\BattleWindow.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\DetailsWindow.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\MainWindow.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\vista\PokemonWindow.baml
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.g.resources
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfoInputs.cache
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.AssemblyInfo.cs
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.csproj.CoreCompileInputs.cache
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.dll
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.pdb
+F:\1º DAM\Programación\PokemonWPF\obj\Debug\netcoreapp3.1\PokemonWPF.genruntimeconfig.cache
